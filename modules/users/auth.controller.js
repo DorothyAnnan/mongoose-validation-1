@@ -10,6 +10,7 @@ const generateToken = (user) => {
         }
     );
 
+
     return  {
         token,
         user,
